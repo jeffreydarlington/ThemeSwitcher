@@ -36,7 +36,7 @@ The selected theme is saved using **localStorage**, so it persists across page r
 ![Dark Mode](Images\images\dark.png)
 
 ### ☀️ Light Mode
-![Light Mode](Images\images\light.png)
+![Light Mode](Images\light.png)
 
 ---
 
