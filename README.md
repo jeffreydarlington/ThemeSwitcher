@@ -33,7 +33,7 @@ The selected theme is saved using **localStorage**, so it persists across page r
 ## 🌗 Theme Toggle Preview
 
 ### 🌑 Dark Mode
-![Dark Mode](Images\images\dark.png)
+![Dark Mode](Images\dark.png)
 
 ### ☀️ Light Mode
 ![Light Mode](Images\light.png)
