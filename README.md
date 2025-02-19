@@ -30,8 +30,13 @@ The selected theme is saved using **localStorage**, so it persists across page r
 2. Click the **toggle switch** to switch between Light and Dark Mode.  
 3. The selected theme persists, even if you refresh the page.  
 
-## 📸 Screenshot  
-![Theme Toggle](https://via.placeholder.com/600x300)  
+## 🌗 Theme Toggle Preview
+
+### 🌑 Dark Mode
+![Dark Mode](Images/images/dark.png)
+
+### ☀️ Light Mode
+![Light Mode](Images/images/light.png)
 
 ---
 
