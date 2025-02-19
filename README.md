@@ -33,11 +33,7 @@ The selected theme is saved using **localStorage**, so it persists across page r
 ## 🌗 Theme Toggle Preview
 
 ### 🌑 Dark Mode
-<<<<<<< HEAD
-=======
 ![Screenshot 2025-02-18 210721](https://github.com/user-attachments/assets/2903b961-100d-4e93-ae46-3606cd17f586)
-
->>>>>>> 1df303df565bc974587d4bb20de71b74b514e3b2
 
 ### ☀️ Light Mode
 ![Screenshot 2025-02-18 210742](https://github.com/user-attachments/assets/ac60968a-8aa7-4d9b-916b-12bd4e3e7bf6)
